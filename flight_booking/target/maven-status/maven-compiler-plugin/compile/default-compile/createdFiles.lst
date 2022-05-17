@@ -1,0 +1,17 @@
+test/CreditCardValidation.class
+test/AmexCardValidation.class
+test/VISACardValidation.class
+test/MasterCardValidation.class
+test/hasFlightNumberValidation.class
+test/fileReader.class
+test/WritetoFile.class
+test/InfoValidation.class
+test/ValidationFactory.class
+test/CardValidation.class
+test/FlightInfo.class
+test/hasSpaceValidation.class
+test/DiscoverCardValidation.class
+test/RunClient.class
+test/hasSeatCategoryValidation.class
+test/Flight.class
+test/Flights.class

@@ -1,0 +1,3 @@
+Please enter correct booking details for 
+Please enter correct booking details for John: Invalid Card!
+Please enter correct booking details for Sierra: No such Seat Category!Sierra: No such Flight!Sierra: Invalid Card!
